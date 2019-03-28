@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">0328work</string>
+    <string name="enter_name">請輸入姓名</string>
+    <string name="enter_weight">請輸入體重(kg)</string>
+    <string name="enter_height">Enter height</string>
+</resources>
