@@ -2,5 +2,10 @@
     <string name="app_name">0328work</string>
     <string name="enter_name">Enter name</string>
     <string name="enter_weight">Enter weight(kg)</string>
-    <string name="enter_height">Enter height</string>
+    <string name="enter_height">Enter height(cm)</string>
+    <string name="txt_hello">Hello!!</string>
+    <string name="txt_ybmi">Your BMI is</string>
+    <string name="txt_slim">You are too slim!!</string>
+    <string name="txt_heavy">You are too heavy!!</string>
+    <string name="txt_good">Your body is good!</string>
 </resources>

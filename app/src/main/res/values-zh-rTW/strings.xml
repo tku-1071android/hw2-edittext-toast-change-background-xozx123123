@@ -3,5 +3,10 @@
     <string name="app_name">0328work</string>
     <string name="enter_name">請輸入姓名</string>
     <string name="enter_weight">請輸入體重(kg)</string>
-    <string name="enter_height">Enter height</string>
+    <string name="enter_height">請輸入身高(cm)</string>
+    <string name="txt_hello">你好!!</string>
+    <string name="txt_ybmi">你的BMI是</string>
+    <string name="txt_slim">不要當紙片人啦!!</string>
+    <string name="txt_heavy">體重過重!!</string>
+    <string name="txt_good">很健康~繼續保持!</string>
 </resources>
